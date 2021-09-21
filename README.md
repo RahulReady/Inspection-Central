@@ -1,5 +1,4 @@
-
-  <img src="FlaskDeployment/templates/Logo.png" alt="drawing" width="400"/>
+  <img src="FlaskDeployment/templates/Logo1.png" alt="drawing" width="400"/>
 <hr>
 Final Project Repository for CSP-571: Data Preparation and Analysis
 
@@ -17,11 +16,12 @@ To see the data we worked on, click [here](./data).
 To see the code we used, click [here](./code).
 
 ## Contributors
-  - Olugbenga Abdulai
-  - Vaibhav Ramesh Kunkerkar
-  - Rahul Maramreddy
-  - Rishab Panyam
-  - Nicholas Saveas
+
+- Olugbenga Abdulai
+- Vaibhav Ramesh Kunkerkar
+- Rahul Maramreddy
+- Rishab Panyam
+- Nicholas Saveas
 
 ## Project Overview
 
